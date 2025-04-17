@@ -1,0 +1,4 @@
+docker build -t pratham0100/xyz:latest
+
+docker run -d -p 8000:8000 upward output
+
